@@ -1,5 +1,4 @@
 # EduBridge
-# EduBridge
 # <img src="./application/frontend/sw-engg/src/images/eduBridge.webp" alt="EduBridge Logo" width="300" height="300" style="border-radius:50%"> 
 
 EduBridge is a modern learning platform designed to enhance the online education experience by bridging the gap between educators and students. Our platform focuses on delivering quality education with active participation and rewards for both instructors and students.
